@@ -12,8 +12,8 @@ Sou apaixonada por **Ciencia de Dados** e estou em constante aprendizado para me
 - Pronomes: ela/dela
 
 ## Atualmente - 🌱 I’m currently learning 
-- Estudando e aplicando técnicas de análise de dados, visualização e machine learning.
-- Desenvolvendo habilidades em Python, SQL, MongoDB, Power BI, Airflow e Docker.
+- Estudando analise e desenvolvimento de sistemas e aplicando técnicas de ciencia de dados, visualização e machine learning.
+- Desenvolvendo habilidades em Python, SQL, MongoDB, Power BI, Airflow e Docker entre outras .
 
 ## Como entrar em contato - 📫 How to reach me tawanylinda@gmail.com
 📧 [tawanylinda@gmail.com](mailto:tawanylinda@gmail.com)  
